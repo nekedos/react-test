@@ -1,3 +1,3 @@
-export const ADD_FRIEND = 'ADD_FRIEND';
-export const STAR_FRIEND = 'STAR_FRIEND';
-export const DELETE_FRIEND = 'DELETE_FRIEND';
+export const VALIDATE_FORM = 'VALIDATE_FORM';
+// export const VALIDATE_INPUT = 'VALIDATE_INPUT';
+export const SET_INPUT_VALUE = 'SET_INPUT_VALUE';
